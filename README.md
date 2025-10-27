@@ -19,6 +19,7 @@
 
 **📄 Published Research Paper**: *"GoWay: A Smartphone-based Public Transport Service for Urban Sri Lanka"* at **NSRSIT 2025 Research Symposium**
 [Link](https://www.linkedin.com/posts/miyurudilakshan_gowayapp-nsrsit2025-researchsymposium-activity-7386903896088199168-ZJe8?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjZazcBENyKxgFDUQA5hpVGd_3xOacFOiA)
+
 **📄 Research Paper Published at KDU-IRC25**: *"Our research papers are now officially published at KDU-IRC"* at **General Sir John Kotelawala Defence University**
  [Link](https://irc.kdu.ac.lk/2025/documents/2025/abstracts/irc25_abstract_book_foc.pdf) (page-25)
  
@@ -344,13 +345,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Contact & Links
+## Links
 
-**Project Repository**: [github.com/isuri54/GoWay](https://github.com/MiyuruDilakshan/GoWay.git)
+**Project Repository**: [https://github.com/MiyuruDilakshan/GoWay.git](https://github.com/MiyuruDilakshan/GoWay.git)
 
 **UI/UX Design**: [Figma Design System](https://www.figma.com/design/gXZnmPVB9uui9XLU64lWSt/GoWay-UI?node-id=0-1&p=f)
 
-**Research Paper**: *"GoWay: A Smartphone-based Public Transport Service for Urban Sri Lanka"* - NSRSIT 2025
+---
+
+## Contact 
+- 📧 **Email**: [Miyurudilakshan@gmail.com](mailto:Miyurudilakshan@gmail.com)
+- 🌐 **Website**: [miyuru.dev](https://miyuru.dev)
+- 💼 **LinkedIn**: [linkedin.com/in/miyurudilakshan](https://www.linkedin.com/in/miyurudilakshan/)
+- 🐙 **GitHub**: [github.com/miyurudilakshan](https://github.com/miyurudilakshan)
 
 ---
 
@@ -358,6 +365,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Our amazing development team
 - NSRSIT 2025 Research Symposium
+- KDU IRC25
 - Sri Lankan transport authorities for their cooperation
 - Open-source community for their invaluable tools and libraries
 
